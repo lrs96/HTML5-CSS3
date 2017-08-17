@@ -1,0 +1,24 @@
+
+<h1>Praia grande</h1>
+
+<p>Praia Grande é um município do estado de São Paulo, <br>na Região Metropolitana da Baixada Santista, na microrregião de Santos. A população, de acordo com o censo demográfico de 2010, é de 260.769 habitantes e a área é de 145 km², o que resulta numa densidade demográfica de 1.444,12 hab/km². A cidade de Praia Grande tem uma das mais movimentadas praias do Brasil. Na alta temporada recebe cerca de 1,4 milhão de turistas, mais de cinco vezes a sua população fixa, que também vem se expandindo depressa: com crescimento de 56 mil habitantes entre 2000 e 2009,<br> Praia Grande recebeu o título de "a cidade que mais cresce no Brasil"</p>
+
+<h2>Dia 1</h2>
+<ul>
+
+	<li>Visita ao aquário</li>
+	<li>Porto de Santos</li>
+	<li>Almoçar</li>
+	<li>Descansar</li>
+	<li>Praticar esportes</li> 
+	   <ol>
+            <li>Volei de praia</li>
+            <li>Futebol de areia</li>
+            <li>Corrida</li>
+            <li>Pedalar</li>
+		
+	   </ol>
+
+	<li>Dormir</li>
+</ul>
+ 

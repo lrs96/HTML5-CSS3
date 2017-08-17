@@ -1,0 +1,16 @@
+Sistemas Operacionais Móveis
+
+Android
+Android é um sistema operacional móvel (SO) baseado no núcleo linux e atualmente desenvolvido pela empresa de tecnologia Google. Com uma interface de usuário baseada na manipulação direta, o Android é projetado principalmente para dispositivos móveis com tela sensível ao toque como smartphones e tablets; com interface específica para TV (Android TV), carro (Android Auto) e relógio de pulso (Android Wear). O sistema operacional utiliza-se da tela sensível ao toque para que o usuário possa manipular objetos virtuais e também de um teclado virtual. Apesar de ser principalmente utilizado em dispositivos com tela sensível ao toque, também é utilizado em consoles de videogames, câmeras digitais, computadores e outros dispositivos eletrônicos.
+
+
+iOS
+iOS (antes chamado de iPhone OS) é um sistema operacional móvel da Apple Inc. desenvolvido originalmente para o iPhone, também é usado em iPod Touch, iPad e Apple TV. A Apple não permite que o iOS seja executado em hardware de terceiros. A interface do usuário do iOS é baseado no conceito de manipulação direta, utilizando gestos em multi-toque.
+
+
+Windows Phone
+Windows Phone, atualmente na sua versão 8.1, é um sistema operacional focado no mercado consumidor e em constatnte atualização. Hoje as principais aplicações do mercado já estão disponíveis na loja de aplicativos, além de alguns aplicativos e jogos exclusivos. O sistema ainda conta com a assistente de voz pessoal Cortana e integração nativa com o Office.
+
+
+Firefox OS
+A proposta de valor da Mozilla para o Firefox OS busca uma diferenciação específica em relação a outros sistemas operacionais do mercado móvel: todos os aplicativos (inclusive o de telefonia, mensagens, etc.) serão apps HTML5, em uma plataforma otimizada para aparelhos de entrada (entry-level) e com menos camadas intermediárias, permitindo reduzir custos e preços.

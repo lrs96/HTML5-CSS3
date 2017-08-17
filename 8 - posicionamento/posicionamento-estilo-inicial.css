@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family:Verdana, Geneva, sans-serif;
+	margin:0;
+	padding:0;
+	background:url(imagens/fundo.jpg);
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+
+#titulo {
+	position:absolute;
+	left: 67px;
+	top: 40px;
+	margin: 0;
+	padding: 5px 10px;
+	font-size: 24px;
+	color:rgba(255,0,0,1);
+	z-index:50;
+}
+
+#texto {
+	background: rgba(255,255,255,0.5);
+	width: 35%;
+	position: absolute;
+	left: 70px;
+	top: 140px;
+	padding: 10px;
+	z-index:51;
+}
+
+#castelo {
+	position:absolute;
+	bottom:0;
+	left:0;
+	z-index:0;
+}
+
+#assassino {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	z-index:48;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.6);
+	color: rgba(255,255,255,1);
+	width: 100%;
+	text-align: center;
+	z-index:49;
+}
+
+
+
+
+
+		
+		
+		
+		
